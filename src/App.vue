@@ -45,6 +45,9 @@ function deleteItem(id) {
   // splice(배열요소 시작위치, 삭제 갯수)
   data.items.splice(idx, 1);
 }
+function test1() {
+  console.log(test1);
+}
 </script>
 
 <template>
